@@ -29,6 +29,7 @@ class m171208_131641_create_article_table extends Migration
             `category_id` INT(11) NOT NULL,
             `title` VARCHAR(255) NOT NULL,
             `full_text` VARCHAR(255) NOT NULL,
+            `teg` VARCHAR(255) NULL,
             `hits` INT(11) NOT NULL DEFAULT 0,
             `image` VARCHAR(255) NOT NULL DEFAULT 'no-img.jpg',
             `date` DATE NOT NULL
