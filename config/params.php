@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 
 return [
@@ -11,3 +12,10 @@ return [
     'linkedin' => '123'
 
 ];
+=======
+<?php
+
+return [
+    'adminEmail' => 'admin@example.com',
+];
+>>>>>>> 82d3f18a54ab3c385f982895ef9fbaa6c98598e2
