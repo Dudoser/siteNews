@@ -6,7 +6,7 @@
 	use yii\base\Widget; 
 	use app\models\Category;
 	use app\models\Article;
-	use app\models\User;
+	use app\models\User; 
 
 	class RightColWidget extends Widget {
 
